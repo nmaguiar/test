@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cd /workspace/test && docker-compose up -d
+cd /workspaces/test && docker-compose up -d
